@@ -1,0 +1,6 @@
+
+  0%|                                                                                                                                         | 0/487 [00:19<?, ?it/s]
+Traceback (most recent call last):
+  File "/raid/projects/weustis/Group6-SP22/Training/train.py", line 53, in <module>
+    top1, top5 = accuracy(pred, y)
+NameError: name 'accuracy' is not defined

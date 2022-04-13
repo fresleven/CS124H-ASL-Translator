@@ -1,0 +1,24 @@
+{
+    "os": "Linux-3.10.0-1160.11.1.el7.x86_64-x86_64-with-glibc2.17",
+    "python": "3.9.7",
+    "heartbeatAt": "2022-04-13T09:17:50.141111",
+    "startedAt": "2022-04-13T09:17:47.714441",
+    "docker": null,
+    "gpu": "A100-SXM4-40GB",
+    "gpu_count": 8,
+    "cpu_count": 256,
+    "cuda": "11.0.228",
+    "args": [],
+    "state": "running",
+    "program": "/raid/projects/weustis/Group6-SP22/Training/train.py",
+    "codePath": "Training/train.py",
+    "git": {
+        "remote": "https://github.com/CS196Illinois/Group6-SP22.git",
+        "commit": "608d9324cfcb4e75c59e1a5d842807f5cbb07bc5"
+    },
+    "email": "",
+    "root": "/raid/projects/weustis/Group6-SP22",
+    "host": "hal-dgx",
+    "username": "weustis",
+    "executable": "/raid/projects/weustis/conda/envs/weustis/bin/python"
+}
