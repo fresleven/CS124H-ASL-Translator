@@ -1,0 +1,4 @@
+name: weustis
+channels:
+  - defaults
+prefix: /raid/projects/weustis/conda/envs/weustis/envs/weustis
