@@ -6,8 +6,7 @@ Group Name:
 Team Members: 
 sjammi2
 akhot2
-gustave2
-jianyis5
+
 
 Project Manager: 
 weustis2
