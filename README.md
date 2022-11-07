@@ -1,7 +1,7 @@
 # Group 6
 Group Name: 
 
-[MVP Link](http://cs196.cs.illinois.edu)
+[Final Presentation](https://docs.google.com/presentation/d/1fplizoJqP0HvyX5r2GvK3U6KkHxyenKaopUHkPJvULE/edit?usp=sharing)
 
 Team Members: 
 sjammi2
